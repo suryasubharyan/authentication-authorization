@@ -28,7 +28,7 @@ Imagine you visit a library:
 
 ## Concepts Used in This Project
 
-### 1. Cookies
+### 1. Cookies  
 
 Cookies are small pieces of data stored on the client side and sent with every HTTP request. They are often used to store session information or tokens.
 
